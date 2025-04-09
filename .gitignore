@@ -1,0 +1,19 @@
+# Environment
+.env
+.env.*
+
+# Cache and Logs
+.astro/
+dist/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
